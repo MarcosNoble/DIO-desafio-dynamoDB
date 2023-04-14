@@ -1,0 +1,31 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Pedigree": {"S": "Golden retriever"},
+                  "Habilidade": {"S": "Retriever"},
+                  "Peso": {"S": "30-40Kg"},                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                 "Pedigree": {"S": "Pastor alemão"},
+                  "Habilidade": {"S": "pastor"},
+                  "Peso": {"S": "30-40Kg"},         
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Pedigree": {"S": "Doberman"},
+                  "Habilidade": {"S": "guarda"},
+                  "Peso": {"S": "20-30Kg"},         
+                }
+            }
+        }
+      ]
+}
