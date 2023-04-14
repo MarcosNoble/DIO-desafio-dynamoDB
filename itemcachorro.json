@@ -5,7 +5,7 @@
                 "Item": {
                   "Pedigree": {"S": "Golden retriever"},
                   "Habilidade": {"S": "Retriever"},
-                  "Peso": {"S": "30-40Kg"},                  
+                  "Peso": {"S": "30-40Kg"}                 
                 }
             }
         },
@@ -14,7 +14,7 @@
                 "Item": {
                  "Pedigree": {"S": "Pastor alemão"},
                   "Habilidade": {"S": "pastor"},
-                  "Peso": {"S": "30-40Kg"},         
+                  "Peso": {"S": "30-40Kg"}
                 }
             }
         },
@@ -23,7 +23,7 @@
                 "Item": {
                   "Pedigree": {"S": "Doberman"},
                   "Habilidade": {"S": "guarda"},
-                  "Peso": {"S": "20-30Kg"},         
+                  "Peso": {"S": "20-30Kg"}
                 }
             }
         }
